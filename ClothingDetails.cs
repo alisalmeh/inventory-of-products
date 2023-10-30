@@ -18,7 +18,7 @@ namespace AliSalmeh_ProjectWeek10_InventoryOfProducts
 
         public override string ToString()
         {
-            return $"Size: {Size}, " + $"Material: {Material}";
+            return $"Size: {Size}, Material: {Material}";
         }
     }
 }
